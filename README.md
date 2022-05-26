@@ -1,13 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo da memoria simples
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+## usando html, css e javascript
 
-### Os requisitos são:
+## teste aqui
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
+--->  https://jogo-da-memoria-two.vercel.app/
